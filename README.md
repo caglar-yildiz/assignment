@@ -18,7 +18,7 @@ NodeJs
 ### Installing
 
 
-Run to seed data for testing
+Run to get started
 
 ```
 npm install
